@@ -17,5 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Images
 
-![Alt text](img-project/login.PNG?raw=true "Title")
+![Alt text](img-project/login.PNG "Title")
 

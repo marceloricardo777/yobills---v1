@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "366024805054",
+    "project_id": "yobills-3e406",
+    "storage_bucket": "yobills-3e406.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366024805054:android:a974579c72edcd70322cef",
+        "android_client_info": {
+          "package_name": "com.example.yobills"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366024805054-estgmhicppuabnne7u95sp6nkq3ac6q7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yobills",
+            "certificate_hash": "3875fef619ebdc0e402b1d0c74877e60f3ab43a3"
+          }
+        },
+        {
+          "client_id": "366024805054-6g2t4leqe3ecaqibm83d68vta3m573qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_q2H019UgAznSqQX17C9YudcNEjhm1BI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366024805054-6g2t4leqe3ecaqibm83d68vta3m573qv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

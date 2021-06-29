@@ -34,5 +34,5 @@ samples, guidance on mobile development, and a full API reference.
 
 ### Image Add
 <p align="center">
-  <img src="img-project/addboleto.PNG" width="200" title="hover text">
+  <img src="img-project/addboleto.jpeg" width="200" title="hover text">
 </p>

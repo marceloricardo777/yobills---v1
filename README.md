@@ -17,5 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Images
 
-![Alt text](img-project/login.PNG "Title")
-
+<p align="center">
+  <img src="img-project/login.PNG" width="350" title="hover text">
+</p>
